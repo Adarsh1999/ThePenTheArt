@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 07 Feb 2022 20:17:50 at https://preview.colorlib.com/theme/cassi/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/cassi/ -O1 "C:\My Web Sites\cassi(colorlib)" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:18:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z= (from https://preview.colorlib.com/theme/cassi/)
+20:18:13	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/cassi/icon-fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://preview.colorlib.com/theme/cassi/css/bootstrap.min.css+font-awesome.min.css+elegant-icons.css+owl.carousel.min.css.pagespeed.cc.8t78HUycpQ.css)
+20:18:13	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/cassi/css/owl.video.play.png (from https://preview.colorlib.com/theme/cassi/css/bootstrap.min.css+font-awesome.min.css+elegant-icons.css+owl.carousel.min.css.pagespeed.cc.8t78HUycpQ.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 62 links scanned, 58 files written (2664649 bytes overall) [1603205 bytes received at 61661 bytes/sec], 1759340 bytes transferred using HTTP compression in 29 files, ratio 36%, 20.6 requests per connection
+(3 errors, 0 warnings, 0 messages)
